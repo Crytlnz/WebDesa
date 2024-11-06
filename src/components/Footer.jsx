@@ -24,8 +24,8 @@ const Footer = () => {
             </div>
             <div>
               <ul>
-                <li className="mb-3"><a href="#kegiatan-kami" className="hover:text-gray-500">Kegiatan Desa</a></li>
-                <li><a href="UMKM-desa" className="hover:text-gray-500">UMKM Desa</a></li>
+                <li className="mb-3"><a href="#kegiatan-desa" className="hover:text-gray-500">Kegiatan Desa</a></li>
+                <li><a href="#umkm-desa" className="hover:text-gray-500">UMKM Desa</a></li>
               </ul>
             </div>
           </div>
